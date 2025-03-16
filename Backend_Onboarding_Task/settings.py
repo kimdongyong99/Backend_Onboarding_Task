@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     # third-apps
     'rest_framework',
     'rest_framework_simplejwt',
+    'drf_yasg',
 ]
 
 MIDDLEWARE = [
